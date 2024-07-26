@@ -1,3 +1,4 @@
+- Daniel Obot Bio
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif)]
 <h1 align="center">Hi 👋, I'm Daniel Obot</h1>
 <h3 align="center">A passionate C++ programmer from Nigeria</h3>
